@@ -29,4 +29,4 @@ Week 1 - Thinking Like an Enterprise Security Architect
 
 ## Status
 
-In Progress
+Architecture Studio Setup In Progress
