@@ -2,31 +2,27 @@
 
 ## Purpose
 
-Project Ascension is a long-term professional development portfolio focused on enterprise security architecture, cybersecurity governance, cloud security, risk management, and emerging security technologies.
+Project Ascension is a long-term professional development portfolio focused on enterprise security architecture, cybersecurity governance, risk management, cloud security, identity, Zero Trust, AI security, and executive communication.
 
-## Current Phase
+## Current Focus
 
-Week 1 - Thinking Like an Enterprise Security Architect
+Week 2 - Enterprise Strategy and Business Analysis
 
-## Current Objectives
+## Program Goals
 
-- Develop enterprise architecture reasoning
-- Understand the relationship between mission and security
-- Practice enterprise discovery
-- Develop architecture documentation skills
-- Build a professional GitHub portfolio
+- Develop enterprise security architecture judgment
+- Translate business requirements into architectural requirements
+- Produce professional architecture artifacts
+- Build a public GitHub portfolio
+- Develop technical and executive communication skills
+- Demonstrate practical work beyond certifications
 
-## Portfolio Areas
+## Portfolio Structure
 
-- Enterprise Security Architecture
-- Governance and Risk
-- Cloud Security
-- Identity
-- Zero Trust
-- AI Security and Governance
-- Technical Writing
-- Architecture Case Studies
+- Week 01 - Thinking Like an Enterprise Security Architect
+- Week 02 - Enterprise Strategy and Business Analysis
+- Future weekly architecture and consulting projects
 
 ## Status
 
-Architecture Studio Setup In Progress
+In Progress
